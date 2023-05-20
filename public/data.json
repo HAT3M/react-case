@@ -1,0 +1,92 @@
+{
+  "firstTable": {
+    "head": [
+      {
+        "id": 1,
+        "key": "id",
+        "name": "Id",
+        "selected": true
+      },
+      {
+        "id": 2,
+        "key": "contract",
+        "name": "Kontrat",
+        "selected": true
+      },
+      {
+        "id": 3,
+        "key":"offer",
+        "name": "Teklif",
+        "selected": true
+      },
+      {
+        "id": 4,
+        "key":"data",
+        "name": "Data",
+        "selected": true
+      }
+    ],
+    "body": [
+      {
+        "id": 1,
+        "contract": "2019",
+        "offer": "78125",
+        "data": "Alış"
+      },
+      {
+        "id": 2,
+        "contract": "2019",
+        "offer": "78125",
+        "data": "Satış"
+      },
+      {
+        "id": 3,
+        "contract": "2019",
+        "offer": "1485",
+        "data": "Satış"
+      },
+      {
+        "id": 4,
+        "contract": "2018",
+        "offer": "12444",
+        "data": "Satış"
+      },
+      {
+        "id": 5,
+        "contract": "2018",
+        "offer": "255",
+        "data": "Alış"
+      }
+    ],
+    "isShowHead": true,
+    "isActions": true,
+    "isSelectFilter": true,
+    "isNewData": false
+  },
+  "secondTable": {
+    "body": [
+      {
+        "id": 1,
+        "contract": "ABC12345",
+        "offer": "254",
+        "data": "Alış"
+      },
+      {
+        "id": 2,
+        "contract": "DEF56789",
+        "offer": "6448",
+        "data": "Satış"
+      },
+      {
+        "id": 3,
+        "contract": "HGI45678",
+        "offer": "5020",
+        "data": "Satış"
+      }
+    ],
+    "isShowHead": false,
+    "isActions": false,
+    "isSelectFilter": false,
+    "isNewData": true
+  }
+}
